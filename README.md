@@ -1,4 +1,4 @@
-##Google Maps API Project
+## Google Maps API Project
 
 This is a project to be able to get the detailed business data like business name, address and phone number 
 from web urls using Python & Google Places API.

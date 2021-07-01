@@ -1,3 +1,3 @@
-API_KEY = 'AIzaSyCKhY8wovFU7E82zsZwLht-ZXoY8lEi3lc'
+API_KEY = 'YOUR_GOOGLE_PLACES_API_KEY'
 INPUT_FILE_NAME = 'test.csv'
 OUTPUT_FILE_NAME = 'result.csv'
